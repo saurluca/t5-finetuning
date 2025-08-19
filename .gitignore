@@ -12,6 +12,7 @@ wheels/
 cache/
 logs/
 output/
+mlruns/
 
 # Data
 data/
